@@ -1,6 +1,11 @@
-testxxxxx	test	0
-xxxxxxtest	test	6
-siemano	test	-1
-telot	t	0
-a	a	0
 a	b	-1
+a	ab	-1
+a	a	0
+bbbb	aa	-1
+baab	aa	1
+lllbaba	ba	3
+asdfkjs	hello	-1
+adfhello	hallo	-1
+lalalaja	lalala	0
+nskrfosx	x	7
+
